@@ -34,3 +34,15 @@ The internal network allows the lab machines to communicate in an isolated envir
 ### Adapter 2 — NAT
 
 ![DC01 Adapter 2 configured for NAT](../Screenshots/Windows-Server/DC01-Adapter2-NAT.png)
+
+## Problems Encountered
+
+The Adapter 1 screenshot did not initially display on GitHub because the capitalization in the Markdown image path did not exactly match the image filename.
+
+## Resolution
+
+Corrected the filename and Markdown path so the spelling and capitalization matched exactly.
+
+## What I Learned
+
+GitHub paths are case-sensitive. When an image or link does not work, verify the exact filename, capitalization, folder path, and file extension.
