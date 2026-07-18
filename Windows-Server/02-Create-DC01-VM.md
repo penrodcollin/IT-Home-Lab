@@ -27,6 +27,10 @@ The internal network allows the lab machines to communicate in an isolated envir
 
 ## Screenshots
 
+### DC01 Virtual Machine Overview
+
+![DC01 displayed in VirtualBox](../Screenshots/Windows-Server/DC01-VirtualBox-Overview.png)
+
 ### Adapter 1 — Internal Network
 
 ![DC01 Adapter 1 configured for LABNET](../Screenshots/Windows-Server/DC01-Adapter1-Labnet.png)
