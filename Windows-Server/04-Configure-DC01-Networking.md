@@ -7,10 +7,10 @@ Configure DC01's name and network adapters in preparation for installing Active 
 DC01
 
 ## Network Adapter Configuration
-IP address:       10.0.0.10
-Subnet mask:      255.255.255.0
-Default gateway:  [BLANK]
-DNS server:       10.0.0.10
+- IP address:       10.0.0.10
+- Subnet mask:      255.255.255.0
+- Default gateway:  [BLANK]
+- DNS server:       10.0.0.10
 
 ## Why I Configured It This Way
 I renamed the server DC01 because it will eventually become the first domain controller in the lab. Giving servers descriptive names makes them easier to identify and manage.
