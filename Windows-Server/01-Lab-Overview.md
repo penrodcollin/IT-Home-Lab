@@ -18,8 +18,6 @@ Build a virtual Windows domain environment to practice Windows Server administra
 - Windows Server evaluation ISO: SERVER_EVAL_x64FRE_en-us
 - Windows client ISO: Windows 11 25H2 English x64
 
-## Planned Virtual Machines
-
 ### Domain Controller
 
 - Operating system: Windows Server Evaluation
@@ -60,14 +58,15 @@ Build a virtual Windows domain environment to practice Windows Server administra
 
 ## Project Status
 
-- [ ] Design virtual network
-- [ ] Install Windows Server
-- [ ] Configure server networking
-- [ ] Install Active Directory
+- [x] Design virtual network
+- [x] Install Windows Server
+- [x] Configure server networking
+- [x] Install Active Directory
+- [x] Create Active Directory OU structure
 - [ ] Configure DNS
 - [ ] Configure DHCP
 - [ ] Install Windows client
 - [ ] Join client to domain
-- [ ] Create users and groups
+- [x] Create users and groups
 - [ ] Configure Group Policy
 - [ ] Complete testing
