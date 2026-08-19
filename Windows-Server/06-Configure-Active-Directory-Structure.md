@@ -51,9 +51,9 @@ John Smith
 His membership in those groups can be used to determine what resources John gets access to.
 
 I also further solidified my understanding of the different types of Security Groups.
-Domain Local
-Global
-Universal (but I haven't really covered this yet, aside from reading the definition)
+- Domain Local
+- Global
+- Universal (but I haven't really covered this yet, aside from reading the definition)
 
 Global answers the question of "Who are you?" or in the case of what I built today, "What department do you belong to?" Mr. Blue works in Management, so I made a Global Group for Management and added him to it. 
 
